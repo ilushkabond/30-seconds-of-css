@@ -1,0 +1,5 @@
+.box-example {
+    height: 280px;
+    background: #222 url('https://image.ibb.co/fUL9nS/wolf.png') no-repeat;
+    background-position: calc(100% - 20px) calc(100% - 20px);
+}
